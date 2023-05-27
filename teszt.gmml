@@ -1,0 +1,12 @@
+#Gráf node: id, x, y
+*:a, 100, 200
+*:b, 100, 400
+
+#Gráf egyszerű él: kezdőpont, végpont
+{a,b}
+
+#Gráf irányított él: kezdőpont, végpont
+[a,b]
+
+#Gráf hurokél: pont
+(a)

@@ -1,0 +1,3 @@
+C:/Users/gombi/Documents/Proglab2/hazi_0328_gfx/cmake-build-debug/CMakeFiles/hazi_0328.dir
+C:/Users/gombi/Documents/Proglab2/hazi_0328_gfx/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gombi/Documents/Proglab2/hazi_0328_gfx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
